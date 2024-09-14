@@ -1,4 +1,4 @@
-I'm @TeejMcSteez
+I'm @TeejMcSteez a lowly comp sci student
 
 <!---
 TeejMcSteez/TeejMcSteez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
