@@ -12,7 +12,7 @@ I'm TeejMcSteez a lowly comp sci student, heres a bit more about me!
 ## 🛠️ Technologies & Tools
 
 - **Languages:** JavaScript, Java, C++
-- **Frameworks/Libraries:** Node.js, Svelte
+- **Frameworks/Libraries:** Node.js, Svelte, React
 - **Databases:** MySQL, MongoDB, Redis
 - **Other Tools:** Visual Studio Code, Git, Powershell, Bash
 
