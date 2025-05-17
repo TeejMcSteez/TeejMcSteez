@@ -1,6 +1,6 @@
 # Hi there, I'm TeejMcSteez! 👋
 
-I'm TeejMcSteez a lowly comp sci student, heres a bit more about me!
+I'm TeejMcSteez, a lowly comp sci student. Here's a bit more about me!
 
 ## 🚀 About Me
 
@@ -18,9 +18,8 @@ I'm TeejMcSteez a lowly comp sci student, heres a bit more about me!
 
 ## 🌱 Currently Learning
 
-- Data Structures
-- Logic and Algorithms
-- Database Design and Implementation
+- Home Assistant (IoT Stuff)
+- Python (For Scripting IoT Stuff)
 
 ## 💼 Professional Experience
 
