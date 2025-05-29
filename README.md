@@ -7,7 +7,7 @@ I'm TeejMcSteez, a lowly comp sci student. Here's a bit more about me!
 - **Name:** Tommy Hall
 - **Profession:** Software Developer
 - **Interests:** Open-source, Web Development, IoT
-- **Hobbies:** Coding, Gaming, Building PC's
+- **Hobbies:** Coding, Gaming, Building PC's, Home Assistant/Homelabbing
 
 ## 🛠️ Technologies & Tools
 
@@ -19,7 +19,7 @@ I'm TeejMcSteez, a lowly comp sci student. Here's a bit more about me!
 ## 🌱 Currently Learning
 
 - Home Assistant (IoT Stuff)
-- Python (For Scripting IoT Stuff)
+- Python (For Software Engineering - ITSC3155)
 
 ## 💼 Professional Experience
 
