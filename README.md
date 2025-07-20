@@ -20,6 +20,7 @@ I'm TeejMcSteez, a lowly comp sci student. Here's a bit more about me!
 
 - Home Assistant (IoT Stuff)
 - Python (For Software Engineering - ITSC3155)
+- Home Networking (DNS, Proxies, etc.)
 
 ## 💼 Professional Experience
 
