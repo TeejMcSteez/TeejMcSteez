@@ -7,19 +7,19 @@ I'm TeejMcSteez, a lowly comp sci student. Here's a bit more about me!
 - **Name:** Tommy Hall
 - **Profession:** Software Developer
 - **Interests:** Open-source, Web Development, IoT
-- **Hobbies:** Coding, Gaming, Building PC's, Home Assistant/Homelabbing
+- **Hobbies:** Gaming, Building PC's, Homelabbing
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, Java, C++
+- **Languages:** JavaScript, Java
 - **Frameworks/Libraries:** Node.js, Svelte, React
 - **Databases:** MySQL, MongoDB, Redis
-- **Other Tools:** Visual Studio Code, Git, Powershell, Bash
+- **Other Tools:** Ansible
 
 ## 🌱 Currently Learning
 
 - Home Assistant (IoT Stuff)
-- Python (For Software Engineering - ITSC3155)
+- Python
 - Home Networking (DNS, Proxies, etc.)
 
 ## 💼 Professional Experience
