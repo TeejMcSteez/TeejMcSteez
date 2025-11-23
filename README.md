@@ -19,7 +19,7 @@ I'm TeejMcSteez, a lowly comp sci student. Here's a bit more about me!
 ## 🌱 Currently Learning
 
 - Home Assistant (IoT Stuff)
-- Python
+- Go
 - Home Networking (DNS, Proxies, etc.)
 
 ## 💼 Professional Experience
