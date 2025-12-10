@@ -26,10 +26,6 @@ I'm TeejMcSteez, a lowly comp sci student. Here's a bit more about me!
 
 N/a (Yet)
 
-## 📈 GitHub Stats
-
-![TeejMcSteez's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeejMcSteez&show_icons=true&theme=radical)
-
 ## 🔗 Connect with Me
 
 - [Personal Website](https://teejmcsteez.tech)
