@@ -30,6 +30,10 @@ N/a (Yet)
 
 - [Personal Website](https://teejmcsteez.tech)
 
+## 📊 Stats
+
+- ![TeejMcSteez Stats](https://github-readme-stats.vercel.app/api?username=TeejMcSteez)
+
 ## 📫 How to Reach Me
 
 Feel free to reach out to me via [email](mailto:tjhall047@gmail.com) for any inquiries or collaboration opportunities.
