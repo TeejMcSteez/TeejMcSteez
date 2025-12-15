@@ -32,7 +32,7 @@ N/a (Yet)
 
 ## 📊 Stats
 
-- ![TeejMcSteez Stats](https://github-readme-stats.vercel.app/api?username=TeejMcSteez)
+![TeejMcSteez Stats](https://github-readme-stats.vercel.app/api?username=TeejMcSteez)
 
 ## 📫 How to Reach Me
 
