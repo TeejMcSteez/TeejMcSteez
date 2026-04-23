@@ -1,7 +1,5 @@
 # Hi there, I'm TeejMcSteez! 👋
 
-I'm TeejMcSteez, a lowly comp sci student. Here's a bit more about me!
-
 - **Name:** Tommy Hall
 - **Profession:** Software Developer
 - **Interests:** ***Open-source***, Web Development, IoT
