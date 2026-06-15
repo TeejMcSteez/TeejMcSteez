@@ -2,8 +2,8 @@
 
 - **Name:** Tommy Hall
 - **Profession:** Software Developer
-- **Interests:** ***Open-source***, Web Development, IoT
-- **Hobbies:** Learning CAD for Fun, Building PC's, Homelab Improvement/Automation
+- **Interests:** ***Open-source***, Web Development, Networking, IoT
+- **Hobbies:** Gardening, Building or Improving Hardware Systems (PC's), Homelab Improvement
 
 ## Connect with Me
 
